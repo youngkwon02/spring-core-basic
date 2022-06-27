@@ -1,8 +1,6 @@
 package hello.core.beanfind;
 
-import hello.core.AppConfig;
 import hello.core.member.*;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.NoUniqueBeanDefinitionException;
